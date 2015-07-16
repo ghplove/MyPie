@@ -1,4 +1,4 @@
-package com.ghp.lr.mypie;
+package com.ghp.lr.mypie.view;
 
 /**
  * Created by ghp on 15/6/10.

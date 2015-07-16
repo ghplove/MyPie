@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pie_retail_outflow">#c69ef3</color>
+    <color name="fund_barchart_bg">#1d2227</color>
+    <color name="f10_taking_color">#9775e4</color>
+    <color name="f10_retained_profits_color">#49a5ff</color>
+    <color name="pie_retail_inflow">#72c7ef</color>
+    <color name="mainTextColor">#e1e2e6</color>
+    <color name="helperTextColor">#565a64</color>
+    <color name="backgroundColor">#191d21</color>
+</resources>
