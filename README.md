@@ -1,2 +1,2 @@
 # MyPie
- ![image](https://github.com/Fairy/MyPie/src/main/res/drawable/my_pie.jpg)
+ ![image](https://github.com/Fairy/MyPie/introduce/my_pie.jpg)
